@@ -1,6 +1,6 @@
 console.log("Hello World");
 
-console.log("Hello World!");
+console.log("Hello Kevin!");
 
 function getComputerChoice() {
     let choice = ["rock", "paper", "scissors"]; // Choices for computer to play
